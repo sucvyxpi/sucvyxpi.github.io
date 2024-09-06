@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://sucvyxpi.github.io/sitemap/sitemap.txt
